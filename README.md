@@ -61,3 +61,14 @@ focus-plugin-unwoke/
 │   └── scan.md             <- /focus:scan command
 └── README.md
 ```
+
+<!-- scc-start -->
+## Code Statistics
+
+| Language | Files | Lines | Blanks | Comments | Code | Complexity |
+|---|---|---|---|---|---|---|
+| Markdown | 3 | 211 | 47 | 0 | 164 | 0 |
+| **Total** | **3** | **211** | **47** | **0** | **164** | **0** |
+
+*Generated with [scc](https://github.com/boyter/scc) on 2026-05-20*
+<!-- scc-end -->
