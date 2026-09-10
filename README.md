@@ -67,13 +67,13 @@ focus-plugin-unwoke/
 
 | Language | Files | Lines | Blanks | Comments | Code | Complexity |
 |---|---|---|---|---|---|---|
-| Markdown | 4 | 228 | 51 | 0 | 177 | 0 |
-| **Total** | **4** | **228** | **51** | **0** | **177** | **0** |
+| Markdown | 4 | 233 | 52 | 0 | 181 | 0 |
+| **Total** | **4** | **233** | **52** | **0** | **181** | **0** |
 
-- **Estimated Cost to Develop (organic):** $4,384
-- **Estimated Schedule Effort (organic):** 1.75 months
-- **Estimated People Required (organic):** 0.22
-- **Processed:** 9,921 bytes (0.010 megabytes)
+- **Estimated Cost to Develop (organic):** $4,489
+- **Estimated Schedule Effort (organic):** 1.76 months
+- **Estimated People Required (organic):** 0.23
+- **Processed:** 10,122 bytes (0.010 megabytes)
 
-*Generated with [scc](https://github.com/boyter/scc) on 2026-05-22*
+*Generated with [scc](https://github.com/boyter/scc) on 2026-09-09*
 <!-- scc-end -->
